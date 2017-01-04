@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Jun Liu&#39;s homepage</title>
-    <link>https://junliu2050.github.io/project/index.xml</link>
-    <description>Recent content in Projects on Jun Liu&#39;s homepage</description>
+    <title>Ddm on Jun Liu&#39;s homepage</title>
+    <link>https://junliu2050.github.io/tags/ddm/index.xml</link>
+    <description>Recent content in Ddm on Jun Liu&#39;s homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Jun Liu</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ddm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Domain Decomposition Methods</title>

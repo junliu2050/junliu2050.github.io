@@ -7,27 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Jun Liu</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://junliu2050.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Optimized pressure pulse-decay method for laboratory estimation of gas permeability of sorptive reservoirs: Part 1 – Background and numerical analysis</title>
+      <link>https://junliu2050.github.io/publication/GasPermeability1/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://junliu2050.github.io/publication/GasPermeability1/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://junliu2050.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Optimized pressure pulse-decay method for laboratory estimation of gas permeability of sorptive reservoirs: Part 2 - Experimental study</title>
+      <link>https://junliu2050.github.io/publication/GasPermeability2/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://junliu2050.github.io/publication/GasPermeability2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Time Domain Decomposition Algorithms for Parabolic PDE-Constrained Optimization Problems</title>
+      <link>https://junliu2050.github.io/publication/TimeDDM/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/TimeDDM/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Leapfrog Multigrid Algorithm for the Optimal Control of Parabolic PDEs with Robin Boundary Conditions</title>
+      <link>https://junliu2050.github.io/publication/LeapfrogRobin/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/LeapfrogRobin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical methods for weak solution of wave equation with van der Pol type nonlinear boundary conditions</title>
+      <link>https://junliu2050.github.io/publication/WaveNolinear/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/WaveNolinear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multigrid scheme for 3D Monge-Ampere equations</title>
+      <link>https://junliu2050.github.io/publication/MongeAmpere/</link>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/MongeAmpere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new semi-smooth Newton multigrid method for control-constrained semi-linear elliptic PDE problems</title>
+      <link>https://junliu2050.github.io/publication/SSNMGElliptic/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/SSNMGElliptic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A leapfrog semi-smooth Newton multigrid method for semilinear parabolic optimal control problems</title>
+      <link>https://junliu2050.github.io/publication/LeapfrogSemilinear/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/LeapfrogSemilinear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fast and stable preconditioned iterative method for optimal control problem of wave equations</title>
+      <link>https://junliu2050.github.io/publication/WaveSISC/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/WaveSISC/</guid>
+      <description></description>
     </item>
     
   </channel>
