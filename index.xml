@@ -56,6 +56,15 @@ Compared with existing online codes, my code tries to balance well between effic
     </item>
     
     <item>
+      <title>Domain Decomposition</title>
+      <link>https://junliu2050.github.io/project/DDM/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/project/DDM/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient Time Domain Decomposition Algorithms for Parabolic PDE-Constrained Optimization Problems</title>
       <link>https://junliu2050.github.io/publication/CAM_LW_TimeDDM/</link>
       <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
@@ -106,15 +115,6 @@ Compared with existing online codes, my code tries to balance well between effic
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://junliu2050.github.io/talk/SIAMCentral2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Domain Decomposition Methods</title>
-      <link>https://junliu2050.github.io/project/DDM/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://junliu2050.github.io/project/DDM/</guid>
       <description></description>
     </item>
     
