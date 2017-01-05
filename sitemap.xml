@@ -37,12 +37,12 @@
   </url>
   
   <url>
-    <loc>https://junliu2050.github.io/publication/GasPermeability1/</loc>
+    <loc>https://junliu2050.github.io/publication/FUEL_FLH_Gas1/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junliu2050.github.io/publication/GasPermeability2/</loc>
+    <loc>https://junliu2050.github.io/publication/FUEL_FHL_Gas2/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -57,22 +57,22 @@
   </url>
   
   <url>
-    <loc>https://junliu2050.github.io/publication/TimeDDM/</loc>
+    <loc>https://junliu2050.github.io/publication/CAM_LW_TimeDDM/</loc>
     <lastmod>2016-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junliu2050.github.io/publication/LeapfrogRobin/</loc>
+    <loc>https://junliu2050.github.io/publication/JCAM_LX_LeapfrogRobin/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junliu2050.github.io/publication/WaveNolinear/</loc>
+    <loc>https://junliu2050.github.io/publication/NPDE_LHSX_Wave/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junliu2050.github.io/publication/MongeAmpere/</loc>
+    <loc>https://junliu2050.github.io/publication/IJCM_LFOX_MongeAmpere/</loc>
     <lastmod>2016-11-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -92,18 +92,58 @@
   </url>
   
   <url>
-    <loc>https://junliu2050.github.io/publication/SSNMGElliptic/</loc>
+    <loc>https://junliu2050.github.io/publication/JOGO_LX_SSNElliptic/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junliu2050.github.io/publication/LeapfrogSemilinear/</loc>
+    <loc>https://junliu2050.github.io/publication/COAP_LX_LeapfrogSemilinear/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junliu2050.github.io/publication/WaveSISC/</loc>
+    <loc>https://junliu2050.github.io/publication/SISC_LLX_WaveControl/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/ASME_GHHLS_Compressor/</loc>
+    <lastmod>2014-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/JCAM_LLS_CCD/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/IJCM_LS_Sinc/</loc>
+    <lastmod>2014-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/LAA_LX_JSR/</loc>
+    <lastmod>2013-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/LAA_DHLX_JSR/</loc>
+    <lastmod>2012-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/LAA_CLCL_Saddle/</loc>
+    <lastmod>2012-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/EWJM_LS_Sinc/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/NLAA_SL_Preconditioning/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,13 +153,13 @@
   </url>
   
   <url>
-    <loc>https://junliu2050.github.io/home/</loc>
+    <loc>https://junliu2050.github.io/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://junliu2050.github.io/</loc>
+    <loc>https://junliu2050.github.io/home/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

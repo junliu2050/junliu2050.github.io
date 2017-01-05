@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jun Liu&#39;s homepage on Jun Liu&#39;s homepage</title>
+    <title>For Open &amp; Reproducible Research on For Open &amp; Reproducible Research</title>
     <link>https://junliu2050.github.io/index.xml</link>
-    <description>Recent content in Jun Liu&#39;s homepage on Jun Liu&#39;s homepage</description>
+    <description>Recent content in For Open &amp; Reproducible Research on For Open &amp; Reproducible Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Jun Liu</copyright>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Optimized pressure pulse-decay method for laboratory estimation of gas permeability of sorptive reservoirs: Part 1 – Background and numerical analysis</title>
-      <link>https://junliu2050.github.io/publication/GasPermeability1/</link>
+      <link>https://junliu2050.github.io/publication/FUEL_FLH_Gas1/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/publication/GasPermeability1/</guid>
+      <guid>https://junliu2050.github.io/publication/FUEL_FLH_Gas1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimized pressure pulse-decay method for laboratory estimation of gas permeability of sorptive reservoirs: Part 2 - Experimental study</title>
-      <link>https://junliu2050.github.io/publication/GasPermeability2/</link>
+      <link>https://junliu2050.github.io/publication/FUEL_FHL_Gas2/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/publication/GasPermeability2/</guid>
+      <guid>https://junliu2050.github.io/publication/FUEL_FHL_Gas2/</guid>
       <description></description>
     </item>
     
@@ -57,37 +57,37 @@ Compared with existing online codes, my code tries to balance well between effic
     
     <item>
       <title>Efficient Time Domain Decomposition Algorithms for Parabolic PDE-Constrained Optimization Problems</title>
-      <link>https://junliu2050.github.io/publication/TimeDDM/</link>
+      <link>https://junliu2050.github.io/publication/CAM_LW_TimeDDM/</link>
       <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/publication/TimeDDM/</guid>
+      <guid>https://junliu2050.github.io/publication/CAM_LW_TimeDDM/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Leapfrog Multigrid Algorithm for the Optimal Control of Parabolic PDEs with Robin Boundary Conditions</title>
-      <link>https://junliu2050.github.io/publication/LeapfrogRobin/</link>
+      <link>https://junliu2050.github.io/publication/JCAM_LX_LeapfrogRobin/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/publication/LeapfrogRobin/</guid>
+      <guid>https://junliu2050.github.io/publication/JCAM_LX_LeapfrogRobin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Numerical methods for weak solution of wave equation with van der Pol type nonlinear boundary conditions</title>
-      <link>https://junliu2050.github.io/publication/WaveNolinear/</link>
+      <link>https://junliu2050.github.io/publication/NPDE_LHSX_Wave/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/publication/WaveNolinear/</guid>
+      <guid>https://junliu2050.github.io/publication/NPDE_LHSX_Wave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A multigrid scheme for 3D Monge-Ampere equations</title>
-      <link>https://junliu2050.github.io/publication/MongeAmpere/</link>
+      <link>https://junliu2050.github.io/publication/IJCM_LFOX_MongeAmpere/</link>
       <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/publication/MongeAmpere/</guid>
+      <guid>https://junliu2050.github.io/publication/IJCM_LFOX_MongeAmpere/</guid>
       <description></description>
     </item>
     
@@ -120,28 +120,37 @@ Compared with existing online codes, my code tries to balance well between effic
     
     <item>
       <title>A new semi-smooth Newton multigrid method for control-constrained semi-linear elliptic PDE problems</title>
-      <link>https://junliu2050.github.io/publication/SSNMGElliptic/</link>
+      <link>https://junliu2050.github.io/publication/JOGO_LX_SSNElliptic/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/publication/SSNMGElliptic/</guid>
+      <guid>https://junliu2050.github.io/publication/JOGO_LX_SSNElliptic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A leapfrog semi-smooth Newton multigrid method for semilinear parabolic optimal control problems</title>
-      <link>https://junliu2050.github.io/publication/LeapfrogSemilinear/</link>
+      <link>https://junliu2050.github.io/publication/COAP_LX_LeapfrogSemilinear/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/publication/LeapfrogSemilinear/</guid>
+      <guid>https://junliu2050.github.io/publication/COAP_LX_LeapfrogSemilinear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A fast and stable preconditioned iterative method for optimal control problem of wave equations</title>
-      <link>https://junliu2050.github.io/publication/WaveSISC/</link>
+      <link>https://junliu2050.github.io/publication/SISC_LLX_WaveControl/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/publication/WaveSISC/</guid>
+      <guid>https://junliu2050.github.io/publication/SISC_LLX_WaveControl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observer design for axial flow compressor</title>
+      <link>https://junliu2050.github.io/publication/ASME_GHHLS_Compressor/</link>
+      <pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/ASME_GHHLS_Compressor/</guid>
       <description></description>
     </item>
     
