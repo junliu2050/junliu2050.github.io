@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on For Better Reproducible Research</title>
-    <link>https://junliu2050.github.io/talk/index.xml</link>
-    <description>Recent content in Talks on For Better Reproducible Research</description>
+    <title>Talks on For Better Teaching and Research</title>
+    <link>./talk/</link>
+    <description>Recent content in Talks on For Better Teaching and Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jun Liu</copyright>
     <lastBuildDate>Thu, 02 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="talk/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Efficient iterative one-shot methods for PDE-constrained optimation problems</title>
-      <link>https://junliu2050.github.io/talk/MSU2017Feb2/</link>
+      <link>./talk/msu2017feb2/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/talk/MSU2017Feb2/</guid>
+      <guid>./talk/msu2017feb2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Real Analysis to Numerical Analysis </title>
-      <link>https://junliu2050.github.io/talk/JSU2016Seminar/</link>
+      <link>./talk/jsu2016seminar/</link>
       <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/talk/JSU2016Seminar/</guid>
+      <guid>./talk/jsu2016seminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multilevel Discretize-then-Optimize Algorithms for PDE-Constrained Optimizations</title>
-      <link>https://junliu2050.github.io/talk/SIAMCentral2016/</link>
+      <link>./talk/siamcentral2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/talk/SIAMCentral2016/</guid>
+      <guid>./talk/siamcentral2016/</guid>
       <description></description>
     </item>
     

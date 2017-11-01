@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on For Better Reproducible Research</title>
-    <link>https://junliu2050.github.io/post/index.xml</link>
-    <description>Recent content in Posts on For Better Reproducible Research</description>
+    <title>Posts on For Better Teaching and Research</title>
+    <link>./post/</link>
+    <description>Recent content in Posts on For Better Teaching and Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jun Liu</copyright>
     <lastBuildDate>Wed, 04 Jan 2017 10:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MATLAB code for 1D Multigrid algorithm</title>
-      <link>https://junliu2050.github.io/post/One%20Dimensional%20Multigrid%20Algorithm/</link>
+      <link>./post/one-dimensional-multigrid-algorithm/</link>
       <pubDate>Wed, 04 Jan 2017 10:00:00 +0000</pubDate>
       
-      <guid>https://junliu2050.github.io/post/One%20Dimensional%20Multigrid%20Algorithm/</guid>
+      <guid>./post/one-dimensional-multigrid-algorithm/</guid>
       <description>&lt;p&gt;Multigrid (MG) methods belong to the best known algorithms for solving some class of PDEs.This code gives a MATLAB implementation of 1D Multigrid algorithm for solving a two-point ODE boundary value problem.
 Compared with existing online codes, my code tries to balance well between efficiency and readability (simplicity) for practical and wide use.
 &lt;/p&gt;
