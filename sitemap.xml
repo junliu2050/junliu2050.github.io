@@ -3,200 +3,225 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>./home/about/</loc>
+    <loc>https://junliu2050.github.io/home/about/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./home/teaching/</loc>
+    <loc>https://junliu2050.github.io/home/teaching/</loc>
     <lastmod>2017-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./home/talks/</loc>
+    <loc>https://junliu2050.github.io/home/talks/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./home/publications/</loc>
+    <loc>https://junliu2050.github.io/home/publications/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./home/research/</loc>
+    <loc>https://junliu2050.github.io/home/research/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./home/codes/</loc>
+    <loc>https://junliu2050.github.io/home/codes/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./home/contact/</loc>
+    <loc>https://junliu2050.github.io/home/contact/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/fuel_flh_gas1/</loc>
+    <loc>https://junliu2050.github.io/publication/ipse_llp_afm/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/sicon_hlmrw_hager/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/cmwa_lw_timeddm/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/talk/ulf2017oct/</loc>
+    <lastmod>2017-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/talk/siamcentral2017/</loc>
+    <lastmod>2017-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/jcam_llx_leapfrog/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junliu2050.github.io/publication/fuel_flh_gas1/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/fuel_fhl_gas2/</loc>
+    <loc>https://junliu2050.github.io/publication/fuel_fhl_gas2/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./talk/msu2017feb2/</loc>
+    <loc>https://junliu2050.github.io/talk/msu2017feb2/</loc>
     <lastmod>2017-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./post/one-dimensional-multigrid-algorithm/</loc>
+    <loc>https://junliu2050.github.io/post/one-dimensional-multigrid-algorithm/</loc>
     <lastmod>2017-01-04T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./project/ddm/</loc>
+    <loc>https://junliu2050.github.io/project/ddm/</loc>
     <lastmod>2017-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/cam_lw_timeddm/</loc>
-    <lastmod>2016-12-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>./publication/jcam_lx_leapfrogrobin/</loc>
+    <loc>https://junliu2050.github.io/publication/jcam_lx_leapfrogrobin/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/npde_lhsx_wave/</loc>
+    <loc>https://junliu2050.github.io/publication/npde_lhsx_wave/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/ijcm_lfox_mongeampere/</loc>
+    <loc>https://junliu2050.github.io/publication/ijcm_lfox_mongeampere/</loc>
     <lastmod>2016-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./talk/jsu2016seminar/</loc>
+    <loc>https://junliu2050.github.io/talk/jsu2016seminar/</loc>
     <lastmod>2016-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./talk/siamcentral2016/</loc>
+    <loc>https://junliu2050.github.io/talk/siamcentral2016/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/jogo_lx_ssnelliptic/</loc>
+    <loc>https://junliu2050.github.io/publication/jogo_lx_ssnelliptic/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/coap_lx_leapfrogsemilinear/</loc>
+    <loc>https://junliu2050.github.io/publication/coap_lx_leapfrogsemilinear/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/sisc_llx_wavecontrol/</loc>
+    <loc>https://junliu2050.github.io/publication/sisc_llx_wavecontrol/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/asme_ghhls_compressor/</loc>
+    <loc>https://junliu2050.github.io/publication/asme_ghhls_compressor/</loc>
     <lastmod>2014-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/jcam_lls_ccd/</loc>
+    <loc>https://junliu2050.github.io/publication/jcam_lls_ccd/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/ijcm_ls_sinc/</loc>
+    <loc>https://junliu2050.github.io/publication/ijcm_ls_sinc/</loc>
     <lastmod>2014-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/laa_lx_jsr/</loc>
+    <loc>https://junliu2050.github.io/publication/laa_lx_jsr/</loc>
     <lastmod>2013-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/laa_dhlx_jsr/</loc>
+    <loc>https://junliu2050.github.io/publication/laa_dhlx_jsr/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/laa_clcl_saddle/</loc>
+    <loc>https://junliu2050.github.io/publication/laa_clcl_saddle/</loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/ewjm_ls_sinc/</loc>
+    <loc>https://junliu2050.github.io/publication/ewjm_ls_sinc/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./publication/nlaa_sl_preconditioning/</loc>
+    <loc>https://junliu2050.github.io/publication/nlaa_sl_preconditioning/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>./categories/</loc>
+    <loc>https://junliu2050.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./tags/ddm/</loc>
+    <loc>https://junliu2050.github.io/tags/ddm/</loc>
     <lastmod>2017-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./</loc>
+    <loc>https://junliu2050.github.io/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./home/</loc>
+    <loc>https://junliu2050.github.io/home/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./post/</loc>
+    <loc>https://junliu2050.github.io/post/</loc>
     <lastmod>2017-01-04T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./project/</loc>
+    <loc>https://junliu2050.github.io/project/</loc>
     <lastmod>2017-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./publication/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <loc>https://junliu2050.github.io/publication/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./tags/</loc>
+    <loc>https://junliu2050.github.io/tags/</loc>
     <lastmod>2017-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./talk/</loc>
-    <lastmod>2017-02-02T00:00:00+00:00</lastmod>
+    <loc>https://junliu2050.github.io/talk/</loc>
+    <lastmod>2017-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

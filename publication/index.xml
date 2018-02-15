@@ -2,146 +2,146 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on For Better Teaching and Research</title>
-    <link>./publication/</link>
+    <link>https://junliu2050.github.io/publication/</link>
     <description>Recent content in Publications on For Better Teaching and Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jun Liu</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="publication/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Optimized pressure pulse-decay method for laboratory estimation of gas permeability of sorptive reservoirs: Part 1 – Background and numerical analysis</title>
-      <link>./publication/fuel_flh_gas1/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <title>An Adaptive Quadrature-based Factorization Method for Inverse Acoustic Scattering Problems</title>
+      <link>https://junliu2050.github.io/publication/ipse_llp_afm/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>./publication/fuel_flh_gas1/</guid>
+      <guid>https://junliu2050.github.io/publication/ipse_llp_afm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Optimized pressure pulse-decay method for laboratory estimation of gas permeability of sorptive reservoirs: Part 2 - Experimental study</title>
-      <link>./publication/fuel_fhl_gas2/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <title>Convergence Rate for a Gauss Collocation Method Applied to Constrained Optimal Control</title>
+      <link>https://junliu2050.github.io/publication/sicon_hlmrw_hager/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>./publication/fuel_fhl_gas2/</guid>
+      <guid>https://junliu2050.github.io/publication/sicon_hlmrw_hager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Time Domain Decomposition Algorithms for Parabolic PDE-Constrained Optimization Problems</title>
-      <link>./publication/cam_lw_timeddm/</link>
-      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <link>https://junliu2050.github.io/publication/cmwa_lw_timeddm/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>./publication/cam_lw_timeddm/</guid>
+      <guid>https://junliu2050.github.io/publication/cmwa_lw_timeddm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Multigrid Method for Unconstrained Parabolic Optimal Control Problems</title>
+      <link>https://junliu2050.github.io/publication/jcam_llx_leapfrog/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/jcam_llx_leapfrog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimized pressure pulse-decay method for laboratory estimation of gas permeability of sorptive reservoirs: Part 1 – Background and numerical analysis</title>
+      <link>https://junliu2050.github.io/publication/fuel_flh_gas1/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/fuel_flh_gas1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimized pressure pulse-decay method for laboratory estimation of gas permeability of sorptive reservoirs: Part 2 - Experimental study</title>
+      <link>https://junliu2050.github.io/publication/fuel_fhl_gas2/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/fuel_fhl_gas2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Leapfrog Multigrid Algorithm for the Optimal Control of Parabolic PDEs with Robin Boundary Conditions</title>
-      <link>./publication/jcam_lx_leapfrogrobin/</link>
+      <link>https://junliu2050.github.io/publication/jcam_lx_leapfrogrobin/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>./publication/jcam_lx_leapfrogrobin/</guid>
+      <guid>https://junliu2050.github.io/publication/jcam_lx_leapfrogrobin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Numerical methods for weak solution of wave equation with van der Pol type nonlinear boundary conditions</title>
-      <link>./publication/npde_lhsx_wave/</link>
+      <link>https://junliu2050.github.io/publication/npde_lhsx_wave/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>./publication/npde_lhsx_wave/</guid>
+      <guid>https://junliu2050.github.io/publication/npde_lhsx_wave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A multigrid scheme for 3D Monge-Ampere equations</title>
-      <link>./publication/ijcm_lfox_mongeampere/</link>
+      <link>https://junliu2050.github.io/publication/ijcm_lfox_mongeampere/</link>
       <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>./publication/ijcm_lfox_mongeampere/</guid>
+      <guid>https://junliu2050.github.io/publication/ijcm_lfox_mongeampere/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A new semi-smooth Newton multigrid method for control-constrained semi-linear elliptic PDE problems</title>
-      <link>./publication/jogo_lx_ssnelliptic/</link>
+      <link>https://junliu2050.github.io/publication/jogo_lx_ssnelliptic/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>./publication/jogo_lx_ssnelliptic/</guid>
+      <guid>https://junliu2050.github.io/publication/jogo_lx_ssnelliptic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A leapfrog semi-smooth Newton multigrid method for semilinear parabolic optimal control problems</title>
-      <link>./publication/coap_lx_leapfrogsemilinear/</link>
+      <link>https://junliu2050.github.io/publication/coap_lx_leapfrogsemilinear/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>./publication/coap_lx_leapfrogsemilinear/</guid>
+      <guid>https://junliu2050.github.io/publication/coap_lx_leapfrogsemilinear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A fast and stable preconditioned iterative method for optimal control problem of wave equations</title>
-      <link>./publication/sisc_llx_wavecontrol/</link>
+      <link>https://junliu2050.github.io/publication/sisc_llx_wavecontrol/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>./publication/sisc_llx_wavecontrol/</guid>
+      <guid>https://junliu2050.github.io/publication/sisc_llx_wavecontrol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Observer design for axial flow compressor</title>
-      <link>./publication/asme_ghhls_compressor/</link>
+      <link>https://junliu2050.github.io/publication/asme_ghhls_compressor/</link>
       <pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>./publication/asme_ghhls_compressor/</guid>
+      <guid>https://junliu2050.github.io/publication/asme_ghhls_compressor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combined compact difference scheme for linear second-order partial differential equations with mixed derivative</title>
-      <link>./publication/jcam_lls_ccd/</link>
+      <link>https://junliu2050.github.io/publication/jcam_lls_ccd/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>./publication/jcam_lls_ccd/</guid>
+      <guid>https://junliu2050.github.io/publication/jcam_lls_ccd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A fast high-order sinc-based algorithm for pricing options under jump-diffusion processes</title>
-      <link>./publication/ijcm_ls_sinc/</link>
+      <link>https://junliu2050.github.io/publication/ijcm_ls_sinc/</link>
       <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>./publication/ijcm_ls_sinc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rank-one characterization of joint spectral radius of finite matrix family</title>
-      <link>./publication/laa_lx_jsr/</link>
-      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>./publication/laa_lx_jsr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The finite-step realizability of the joint spectral radius of a pair of $d\times d$ matrices one of which being rank-one</title>
-      <link>./publication/laa_dhlx_jsr/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>./publication/laa_dhlx_jsr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structured backward errors for generalized saddle point systems</title>
-      <link>./publication/laa_clcl_saddle/</link>
-      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
-      
-      <guid>./publication/laa_clcl_saddle/</guid>
+      <guid>https://junliu2050.github.io/publication/ijcm_ls_sinc/</guid>
       <description></description>
     </item>
     
