@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jun Liu</copyright>
-    <lastBuildDate>Thu, 15 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Modified Transient Technique for Porosity and Permeability Determination in Tight Formations: Experimental Investigation and Numerical Simulation</title>
+      <link>https://junliu2050.github.io/publication/preprint_fplch_2018/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/preprint_fplch_2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Adaptive Quadrature-based Factorization Method for Inverse Acoustic Scattering Problems</title>
@@ -133,15 +142,6 @@
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>https://junliu2050.github.io/publication/jcam_lls_ccd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A fast high-order sinc-based algorithm for pricing options under jump-diffusion processes</title>
-      <link>https://junliu2050.github.io/publication/ijcm_ls_sinc/</link>
-      <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://junliu2050.github.io/publication/ijcm_ls_sinc/</guid>
       <description></description>
     </item>
     

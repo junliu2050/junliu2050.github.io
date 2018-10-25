@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Modified Transient Technique for Porosity and Permeability Determination in Tight Formations: Experimental Investigation and Numerical Simulation</title>
+      <link>https://junliu2050.github.io/publication/preprint_fplch_2018/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/preprint_fplch_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Adaptive Quadrature-based Factorization Method for Inverse Acoustic Scattering Problems</title>
       <link>https://junliu2050.github.io/publication/ipse_llp_afm/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
@@ -142,15 +151,6 @@ Compared with existing online codes, my code tries to balance well between effic
       <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://junliu2050.github.io/publication/ijcm_lfox_mongeampere/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From Real Analysis to Numerical Analysis </title>
-      <link>https://junliu2050.github.io/talk/jsu2016seminar/</link>
-      <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://junliu2050.github.io/talk/jsu2016seminar/</guid>
       <description></description>
     </item>
     
