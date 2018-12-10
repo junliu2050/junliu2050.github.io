@@ -20,6 +20,42 @@
     </item>
     
     <item>
+      <title>Efficient Adaptive Qualitative Methods for 3D Inverse Scattering Problems</title>
+      <link>https://junliu2050.github.io/publication/aces_llp_afm3d/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/aces_llp_afm3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-commutative Discretize-then-Optimize Algorithms for  Elliptic PDE-Constrained Optimal Control Problems</title>
+      <link>https://junliu2050.github.io/publication/jcam_lw_dood/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/jcam_lw_dood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two direct factorization methods for inverse scattering problems</title>
+      <link>https://junliu2050.github.io/publication/ip_llp_dfm/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/ip_llp_dfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of gas compressibility on permeability measurement in coalbed methane formations: Experimental investigation and flow modeling</title>
+      <link>https://junliu2050.github.io/publication/ijcg_flcb_gas/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junliu2050.github.io/publication/ijcg_flcb_gas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Adaptive Quadrature-based Factorization Method for Inverse Acoustic Scattering Problems</title>
       <link>https://junliu2050.github.io/publication/ipse_llp_afm/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
@@ -116,42 +152,6 @@ Compared with existing online codes, my code tries to balance well between effic
 &lt;li&gt;TIM&amp;rsquo;S 1-D MULTIGRID CODES (&lt;a href=&#34;http://www4.ncsu.edu/~ctk/house_798k/codes/codes-1D/mg1d.pdf&#34; target=&#34;_blank&#34;&gt;http://www4.ncsu.edu/~ctk/house_798k/codes/codes-1D/mg1d.pdf&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;John Burkardt&amp;rsquo;s collection (&lt;a href=&#34;https://people.sc.fsu.edu/~jburkardt/m_src/multigrid_poisson_1d/multigrid_poisson_1d.html&#34; target=&#34;_blank&#34;&gt;https://people.sc.fsu.edu/~jburkardt/m_src/multigrid_poisson_1d/multigrid_poisson_1d.html&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Domain Decomposition</title>
-      <link>https://junliu2050.github.io/project/ddm/</link>
-      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://junliu2050.github.io/project/ddm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Leapfrog Multigrid Algorithm for the Optimal Control of Parabolic PDEs with Robin Boundary Conditions</title>
-      <link>https://junliu2050.github.io/publication/jcam_lx_leapfrogrobin/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://junliu2050.github.io/publication/jcam_lx_leapfrogrobin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Numerical methods for weak solution of wave equation with van der Pol type nonlinear boundary conditions</title>
-      <link>https://junliu2050.github.io/publication/npde_lhsx_wave/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://junliu2050.github.io/publication/npde_lhsx_wave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A multigrid scheme for 3D Monge-Ampere equations</title>
-      <link>https://junliu2050.github.io/publication/ijcm_lfox_mongeampere/</link>
-      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://junliu2050.github.io/publication/ijcm_lfox_mongeampere/</guid>
-      <description></description>
     </item>
     
   </channel>
